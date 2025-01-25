@@ -7,6 +7,9 @@ The US Adult Census dataset is a repository of records extracted from Census dat
 The notebook includes:
 
 Exploration of the data to understand demographics trends.
+
 Models to predict if a record makes more or less than 50'000,00 $ in 1994.
+
 Comparison between different models and their performance.
+
 Relevant comments follow along the analysis.
