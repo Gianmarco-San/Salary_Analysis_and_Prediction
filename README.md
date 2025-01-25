@@ -1,4 +1,4 @@
-US Adult Census Dataset | Salary Analysis & Prediction
+<h1>US Adult Census Dataset | Salary Analysis & Prediction</h1>
 
 In this notebook an analysis of US salaries is implemented, where the aim is to estimate if, given some features from the dataset, a salary is above or below 50'000 USD annually.
 
